@@ -38,4 +38,4 @@ Available on the Mac App Store. *(link coming soon)*
 
 ## Contact
 
-Questions or feedback? Reach out at [jeffrey.huang@stackadapt.com](mailto:jeffrey.huang@stackadapt.com).
+Questions or feedback? Reach out at [jeffreyjyhuang@gmail (dot) com]
