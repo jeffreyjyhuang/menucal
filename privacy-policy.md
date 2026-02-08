@@ -53,4 +53,4 @@ If this privacy policy is updated, the revised version will be posted at this UR
 
 ## Contact
 
-If you have questions about this privacy policy or your data, reach out at [jeffrey.huang@stackadapt.com](mailto:jeffrey.huang@stackadapt.com).
+If you have questions about this privacy policy or your data, reach out at [jeffreyjyhuang@gmail (dot) com]
