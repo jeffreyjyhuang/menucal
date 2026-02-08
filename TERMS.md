@@ -44,4 +44,4 @@ These terms are governed by and construed in accordance with applicable law, wit
 
 ## Contact
 
-Questions about these terms? Reach out at [jeffrey.huang@stackadapt.com](mailto:jeffrey.huang@stackadapt.com).
+Questions about these terms? Reach out at [jeffreyjyhuang@gmail (dot) com]
