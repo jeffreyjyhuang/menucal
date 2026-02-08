@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MenuBar Calendar — Privacy Policy</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            color: #333;
+            line-height: 1.7;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+            background: #fafafa;
+        }
+        h1 { font-size: 28px; margin-bottom: 8px; color: #1a1a1a; }
+        .subtitle { color: #888; font-size: 14px; margin-bottom: 40px; }
+        h2 { font-size: 18px; margin-top: 36px; margin-bottom: 12px; color: #1a1a1a; }
+        p { margin-bottom: 16px; font-size: 15px; }
+        ul { margin: 0 0 16px 24px; font-size: 15px; }
+        li { margin-bottom: 6px; }
+        .highlight { background: #f0f7f3; border-left: 3px solid #2D8C5A; padding: 16px 20px; border-radius: 4px; margin: 20px 0; }
+        a { color: #2D8C5A; }
+        footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid #e0e0e0; color: #999; font-size: 13px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p class="subtitle">MenuBar Calendar — Last updated: February 7, 2026</p>
+
+    <div class="highlight">
+        <strong>Summary:</strong> MenuBar Calendar accesses your Google Calendar data in read-only mode to display your events. All data stays on your device. We do not collect, store, or share your information on any server.
+    </div>
+
+    <h2>What data we access</h2>
+    <p>When you sign in with your Google account, MenuBar Calendar requests read-only access to:</p>
+    <ul>
+        <li><strong>Calendar events</strong> — Your event titles, times, locations, and calendar names, used to display your schedule and the countdown in the menu bar.</li>
+        <li><strong>Basic profile information</strong> — Your name and email address, used only to show which account is connected in the app's settings.</li>
+    </ul>
+    <p>We request the minimum permissions necessary. The app uses the <code>calendar.readonly</code> scope and cannot create, modify, or delete any events or calendar data.</p>
+
+    <h2>How data is stored</h2>
+    <p>All calendar data is stored locally on your Mac and kept in memory while the app is running. Your OAuth authentication tokens are stored securely in the macOS Keychain, which is encrypted by the operating system. No data is written to disk in unencrypted form.</p>
+    <p>Your display preferences (such as time format and popover size) are saved locally using macOS UserDefaults on your device.</p>
+
+    <h2>What we do not do</h2>
+    <ul>
+        <li>We do <strong>not</strong> operate any servers or cloud infrastructure.</li>
+        <li>We do <strong>not</strong> collect analytics, usage data, or crash reports.</li>
+        <li>We do <strong>not</strong> share, sell, or transmit your data to any third party.</li>
+        <li>We do <strong>not</strong> use cookies, tracking pixels, or advertising identifiers.</li>
+        <li>We do <strong>not</strong> access any Google data beyond what is listed above.</li>
+    </ul>
+
+    <h2>Third-party services</h2>
+    <p>MenuBar Calendar communicates directly with Google's APIs to authenticate your account and fetch calendar data. This communication is governed by <a href="https://policies.google.com/privacy" target="_blank">Google's Privacy Policy</a>. No other third-party services are used.</p>
+
+    <h2>Data retention</h2>
+    <p>Calendar events are cached in memory and refreshed every five minutes while the app is running. When you quit the app, cached event data is discarded. If you sign out within the app, your authentication tokens are permanently deleted from the macOS Keychain.</p>
+
+    <h2>Security</h2>
+    <p>Authentication uses the OAuth 2.0 protocol with PKCE (Proof Key for Code Exchange), which is the industry-standard method for native applications. All communication with Google's servers occurs over encrypted HTTPS connections. The app runs within the macOS App Sandbox, limiting its access to only the resources it needs.</p>
+
+    <h2>Children's privacy</h2>
+    <p>MenuBar Calendar is not directed at children under the age of 13 and does not knowingly collect information from children.</p>
+
+    <h2>Changes to this policy</h2>
+    <p>If this privacy policy is updated, the revised version will be posted at this URL with an updated date. Continued use of the app after changes constitutes acceptance of the revised policy.</p>
+
+    <h2>Contact</h2>
+    <p>If you have questions about this privacy policy or your data, you can reach us at:</p>
+    <p><a href="mailto:jeffrey.huang@stackadapt.com">jeffrey.huang@stackadapt.com</a></p>
+
+    <footer>
+        &copy; 2026 MenuBar Calendar. All rights reserved.
+    </footer>
+</body>
+</html>
